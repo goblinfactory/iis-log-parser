@@ -1,0 +1,2 @@
+# iis-log-parser
+parse iis log files so that you can query them (e.g. via linqpad) instead of using log parser 2.2 that requires very specific syntax and steep learning curve. I wanted to be able to query my logs using linq and query absolutely anything I want, really easily. Also, I need it be really easily extensible. Project is primarily around a simple line parser, that parses a log line into a IIS request "hit" object, what you do with that is up to you.
