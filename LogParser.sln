@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParser", "LogParser\LogParser.csproj", "{2272B623-DAE6-48C8-8777-4CDBC2567B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParser.Tests", "LogParser.Tests\LogParser.Tests.csproj", "{91531577-F6EA-4EB1-98C0-00F2DA12AC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2272B623-DAE6-48C8-8777-4CDBC2567B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2272B623-DAE6-48C8-8777-4CDBC2567B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2272B623-DAE6-48C8-8777-4CDBC2567B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2272B623-DAE6-48C8-8777-4CDBC2567B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91531577-F6EA-4EB1-98C0-00F2DA12AC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91531577-F6EA-4EB1-98C0-00F2DA12AC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91531577-F6EA-4EB1-98C0-00F2DA12AC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91531577-F6EA-4EB1-98C0-00F2DA12AC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿[Hit]: hashcode { 16266972 }
+{
+	Date : 05/02/2015 08:01:02
+	SiteName : W3SVC8
+	ServerName : DEV-X41LBD3AE6F
+	ServerIP : 100.100.100.100
+	Method : GET
+	UriStem : /
+	Resource : 
+	UriQuery : -
+	Port : 80
+	UserName : -
+	ClientIP : 66.66.66.66
+	CSVersion : HTTP/1.1
+	UserAgent : Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.94+Safari/537.36
+	Cookie : cookie
+	Referrer : Referer
+	HostHeaderName : www.goblinfactory.co.uk
+	ScStatus : 200
+	ScSubstatus : 0
+	ScWin32Status : 0
+	BytesSent : 16133
+	BytesReceived : 387
+	TimeTaken : 1279
+	ParseError : False
+	RawLine : {NULL}
+	ErrorMessage : {NULL}
+}
